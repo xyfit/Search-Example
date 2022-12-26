@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Search Example</string>
+    <string-array name="top_english_names_array">
+        <item>Theodore</item>
+        <item>Jack</item>
+        <item>Levi</item>
+        <item>Alexander</item>
+        <item>Jackson</item>
+        <item>Mateo</item>
+        <item>Daniel</item>
+        <item>Michael</item>
+        <item>Mason</item>
+        <item>Sebastian</item>
+        <item>Ethan</item>
+        <item>Logan</item>
+        <item>Owen</item>
+        <item>Samuel</item>
+        <item>Jacob</item>
+        <item>Asher</item>
+        <item>John</item>
+        <item>David</item>
+    </string-array>
+</resources>
